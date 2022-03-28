@@ -1,2 +1,3 @@
 httptools==0.0.11
 yarl==1.3.0
+fastapi
